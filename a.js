@@ -1,2 +1,3 @@
 var a='huangfanghuangfanghuangfanghuangfanghuangfanghuangfang';
 //change a.js
+//b updata a 
