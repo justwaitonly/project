@@ -33,3 +33,5 @@ angular.module('appModule',[
 
         $UrlRouterProvider.otherwise("/list/in_theaters");
     }])
+
+//huangfnag
